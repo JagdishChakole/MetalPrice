@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: manuscript.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+The style file: elsarticle-num.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+Repeated entry---line 905 of file references.bib
+ : @inproceedings{chakole2021convolutional
+ :                                        ,
+I'm skipping whatever remains of this entry
+Warning--empty pages in chakole2021convolutional
+You've used 21 entries,
+            2952 wiz_defined-function locations,
+            798 strings with 9588 characters,
+and the built_in function-call counts, 6726 in all, are:
+= -- 614
+> -- 261
+< -- 4
++ -- 101
+- -- 80
+* -- 448
+:= -- 941
+add.period$ -- 21
+call.type$ -- 21
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 219
+empty$ -- 744
+format.name$ -- 101
+if$ -- 1737
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 21
+newline$ -- 71
+num.names$ -- 21
+pop$ -- 137
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 450
+stack$ -- 0
+substring$ -- 358
+swap$ -- 52
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 50
+width$ -- 23
+write$ -- 181
+(There was 1 error message)
